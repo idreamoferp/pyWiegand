@@ -1,0 +1,5 @@
+setup.py
+pyWiegand.egg-info/PKG-INFO
+pyWiegand.egg-info/SOURCES.txt
+pyWiegand.egg-info/dependency_links.txt
+pyWiegand.egg-info/top_level.txt
