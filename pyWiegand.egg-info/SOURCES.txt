@@ -1,4 +1,5 @@
 setup.py
+wiegand.py
 pyWiegand.egg-info/PKG-INFO
 pyWiegand.egg-info/SOURCES.txt
 pyWiegand.egg-info/dependency_links.txt
